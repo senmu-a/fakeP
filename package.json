@@ -1,0 +1,23 @@
+{
+  "name": "fakep",
+  "version": "1.0.0",
+  "description": "这是一款实现 Promise/A+ 标准的 Promise",
+  "keywords": [
+    "promise",
+    "promises",
+    "promise/A+",
+    "fakeP",
+    "fakePJS"
+  ],
+  "main": "fakeP.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/senmu-a/fakeP.git"
+  },
+  "author": "senmu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/senmu-a/fakeP/issues"
+  },
+  "homepage": "https://github.com/senmu-a/fakeP#readme"
+}
