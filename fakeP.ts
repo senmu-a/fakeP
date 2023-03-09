@@ -1,6 +1,6 @@
 import { isObject, isFunction, isFakeP } from './utils'
 /**
- * 1. 三种状态 pending、fullfilled、rejected
+ * 1. 三种状态 pending、fullfiled、rejected
  * 2. FakeP 构造函数
  *    - 静态方法 resolve，返回值为 FakeP 实例
  *    - 实例方法 then、catch，返回值为 FakeP 实例
