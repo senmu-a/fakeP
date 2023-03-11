@@ -10,6 +10,9 @@
     "fakePJS"
   ],
   "main": "fakeP.js",
+  "scripts": {
+    "test": "promises-aplus-tests fake"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/senmu-a/fakeP.git"
@@ -19,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/senmu-a/fakeP/issues"
   },
-  "homepage": "https://github.com/senmu-a/fakeP#readme"
+  "homepage": "https://github.com/senmu-a/fakeP#readme",
+  "devDependencies": {
+    "promises-aplus-tests": "^2.1.2"
+  }
 }
